@@ -1,3 +1,6 @@
+[B]Version 1.7.1[/B]
+- Changed Repo Location
+
 [B]Version 1.7.0[/B]
 - Changed playback mechanism
 
