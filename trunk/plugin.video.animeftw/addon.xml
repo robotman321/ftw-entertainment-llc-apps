@@ -12,7 +12,7 @@
     <platform>all</platform>
     <minversion>29000</minversion>
     <summary>Watch high-quality, streaming anime from AnimeFTW.tv!</summary>
-    <description>AnimeFTW.tv provides high-quality, streaming anime using both DivX and H264 video codecs.  With over 600 series and 1.5TB of video available, AnimeFTW aims to provide the best collection of anime series, OVAs, and movies to its users.
+    <description>AnimeFTW.tv provides high-quality, streaming anime using both DivX and H264 video codecs.  With over 650 series and 1.5TB of video available, AnimeFTW aims to provide the best collection of anime series, OVAs, and movies to its users.
     </description>
     <disclaimer>You must have an account at www.animeftw.tv and be logged in for this addon to function!  Only the first two episodes are available to free members!</disclaimer>
   </extension>
